@@ -1,1 +1,1 @@
-All Logic Gates 
+All Loic Gates
